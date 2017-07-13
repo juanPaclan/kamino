@@ -4,4 +4,5 @@ contador = 0;
 for ( i=0; i< datos.length ; i++){
   contador += datos[i];
 }
+
 console.log(contador);
